@@ -9,4 +9,5 @@ https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 ![Capture](https://github.com/louhichi-rihem/Face_Recognition/assets/129398762/5849cee1-5534-4d36-92a6-4d05c03f5ef9)
 
 ## an Unverified exapmle:
-![cap](https://github.com/louhichi-rihem/Face_Recognition/assets/129398762/cb7e0690-bfb5-4840-a014-11ff523c7dbc)
+
+![Capture](https://github.com/louhichi-rihem/Face_Recognition/assets/129398762/4a061526-8c6d-4ce8-9744-9c23998c1fe5)
